@@ -8,7 +8,7 @@ void main ()
     modulo = numero % 2;
     if (modulo == 0 )
     {
-        printf("\nel numero es par\n");
+        printf("\ntrue\n");
     }
-    else printf("\nEl numero es impar\n");
+    else printf("\nfalse\n");
 }
