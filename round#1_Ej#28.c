@@ -6,7 +6,7 @@ void main()
 {
     float a, b;
      double  i, precision = 0.0000001;
-    double   acum, acum1;
+    double   acum;
 
     printf("\nDame el cateto Opuesto\t");
     scanf("%f", &a);
