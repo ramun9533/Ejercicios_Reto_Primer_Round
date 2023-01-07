@@ -13,7 +13,7 @@ void main()
     printf("\nDame el cateto Adyasente\t");
     scanf("%f", &b);
 
-    acum = (a * b) + (b * b);
+    acum = (a * a) + (b * b);
     for ( i = 1; i * i <= acum; i++);
     for (--i; i * i < acum; i += precision);
     
