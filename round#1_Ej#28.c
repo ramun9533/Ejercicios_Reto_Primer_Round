@@ -4,7 +4,7 @@
 void main()
 
 {
-    float a, b, c;
+    float a, b;
      double  i, precision = 0.0000001;
     double   acum, acum1;
 
