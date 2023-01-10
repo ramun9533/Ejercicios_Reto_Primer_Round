@@ -18,8 +18,8 @@ void main ()
 for (int i = 0; vector[i] != '\0'; i++)
 {
     /* code */
-    ch = vector[i];
-
+    ch = vector[i]; //Se hace la transferencia para la manipulacion
+   // la igualdad de ch == A debe ser individual, porque si no es asi no lo detecta
     if (ch == 'A' || ch == 'a' || ch == 'E' || ch == 'e' || ch == 'I' || ch == 'i' || ch == 'O' || ch == 'o' || ch == 'U' || ch == 'u')
     {
         /* code */
