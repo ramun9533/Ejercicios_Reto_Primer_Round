@@ -1,12 +1,12 @@
 /******************************************************************************
 
-                          Note
-This program only handles the range of uppercase letters, 
-since it is the requirement that is requested in the example. 
-But with a slight modification the range can be extended to lowercase letters.
+ Note
+This program only handles the range of capital letters, since it is the 
+requirement that is requested in the example. But with a slight modification
+the range can be extended to lowercase letters.
 Nota
 Este programa solo maneja el rango de las letras mayusculas,ya que es el 
-requerimiento que se pide en elejemplo. Pero con una ligera modificacion se 
+requerimiento que se pide en el ejemplo. Pero con una ligera modificacion se 
 puede ampliar el rango a las letras minusculas. 
 
 *******************************************************************************/
