@@ -1,7 +1,7 @@
 /******************************************************************************
 
  Note
-This program only handles the range of capital letters, since it is the 
+This program only handles the range of uppercase , since it is the 
 requirement that is requested in the example. But with a slight modification
 the range can be extended to lowercase letters.
 Nota
