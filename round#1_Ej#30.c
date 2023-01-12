@@ -36,7 +36,8 @@ int main ()
      for (int i = 0; i < MAXSIZE; i++)
       {
     /* code */
-    acum1 = vector[i] - RANGOD;
+    // Con esto ubico la posicion del registro de la letra que deseo intercambiar
+    acum1 = vector[i] - RANGOD; 
     printf("%c", abc[acum1]); 
       }
     // acum1 = vector[0] - RANGOD;
